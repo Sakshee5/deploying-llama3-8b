@@ -112,11 +112,3 @@ The API includes comprehensive error handling for:
 - Internal server errors
 
 All errors are logged with appropriate context.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
